@@ -2,6 +2,7 @@
 In this project we will be using "https://coinmarketcap.com/" a website that tracks cryptocurrencies.
 
 NOTE: Make sure to read through the CoinMarketCap Documentation "https://coinmarketcap.com/api/documentation/v1/"
+
 NOTE: !YOU WILL HAVE TO GENERATE AND USE YOUR OWN API KEY FROM YOUR CoinMarketCap Account! "https://coinmarketcap.com/api/"
 
 Steps to get started with the project:
